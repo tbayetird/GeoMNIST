@@ -1,0 +1,193 @@
+Country,Data rep,ISO-3166-1 alpha-3
+Zimbabwe,0.0,ZWE
+Zambia,0.0,ZMB
+Yemen,0.0,YEM
+Viet Nam,0.0,VNM
+Venezuela (Bolivarian Republic of),0.0,VEN
+Vanuatu,0.0,VUT
+Uzbekistan,0.0,UZB
+Uruguay,0.0,URY
+United States of America,45.4,USA
+United Kingdom of Great Britain and Northern Ireland,7.6,GBR
+United Arab Emirates,0.0,ARE
+Ukraine,0.0,UKR
+Uganda,0.0,UGA
+Tuvalu,0.0,TUV
+Turkmenistan,0.0,TKM
+Türkiye,0.0,TUR
+Tunisia,0.0,TUN
+Trinidad and Tobago,0.0,TTO
+Tonga,0.0,TON
+Togo,0.0,TGO
+Timor-Leste,0.0,TLS
+Thailand,0.0,THA
+United Republic of Tanzania,0.0,TZA
+Tajikistan,0.0,TJK
+Syrian Arab Republic,0.0,SYR
+Switzerland,0.0,CHE
+Sweden,0.6,SWE
+Suriname,0.0,SUR
+Sudan,0.0,SDN
+Sri Lanka,0.0,LKA
+Spain,3.5,ESP
+Republic of Korea,0.0,KOR
+South Africa,0.0,ZAF
+Somalia,0.0,SOM
+Solomon Islands,0.0,SLB
+Slovenia,0.0,SVN
+Slovakia,0.0,SVK
+Singapore,0.0,SGP
+Sierra Leone,0.0,SLE
+Seychelles,0.0,SYC
+Serbia,0.0,SRB
+Senegal,0.0,SEN
+Saudi Arabia,0.0,SAU
+Sao Tome and Principe,0.0,STP
+San Marino,0.0,SMR
+Samoa,0.0,WSM
+Saint Vincent and the Grenadines,0.0,VCT
+Saint Lucia,0.0,LCA
+Saint Kitts and Nevis,0.0,KNA
+Rwanda,0.0,RWA
+Russian Federation,1.2,RUS
+Romania,0.0,ROU
+Congo,0.0,COG
+Qatar,0.0,QAT
+Portugal,0.0,PRT
+Poland,0.0,POL
+Philippines,0.0,PHL
+Peru,0.0,PER
+Paraguay,0.0,PRY
+Papua New Guinea,0.0,PNG
+Panama,0.0,PAN
+Palau,0.0,PLW
+Pakistan,0.0,PAK
+Oman,0.0,OMN
+Norway,0.0,NOR
+North Macedonia,0.0,MKD
+Democratic People's Republic of Korea,0.0,PRK
+Nigeria,0.0,NGA
+Niger,0.0,NER
+Nicaragua,0.0,NIC
+New Zealand,0.0,NZL
+Netherlands,0.4,NLD
+Nepal,0.0,NPL
+Namibia,0.0,NAM
+Myanmar,0.0,MMR
+Mozambique,0.0,MOZ
+Morocco,0.0,MAR
+Montenegro,0.0,MNE
+Mongolia,0.0,MNG
+Monaco,0.0,MCO
+Republic of Moldova,0.0,MDA
+Mexico,1.0,MEX
+Mauritius,0.0,MUS
+Mauritania,0.0,MRT
+Marshall Islands,0.0,MHL
+Malta,0.0,MLT
+Mali,0.0,MLI
+Maldives,0.0,MDV
+Malaysia,0.0,MYS
+Malawi,0.0,MWI
+Madagascar,0.0,MDG
+Luxembourg,0.0,LUX
+Lithuania,0.0,LTU
+Liechtenstein,0.0,LIE
+Libya,0.0,LBY
+Liberia,0.0,LBR
+Lesotho,0.0,LSO
+Lebanon,0.0,LBN
+Latvia,0.0,LVA
+Lao People's Democratic Republic,0.0,LAO
+Kyrgyzstan,0.0,KGZ
+Kuwait,0.0,KWT
+Kiribati,0.0,KIR
+Kenya,0.0,KEN
+Kazakhstan,0.0,KAZ
+Jordan,0.0,JOR
+Japan,3.1,JPN
+Jamaica,0.0,JAM
+Côte d’Ivoire,0.0,CIV
+Italy,6.2,ITA
+Israel,0.0,ISR
+Ireland,0.5,IRL
+Iraq,0.0,IRQ
+Iran (Islamic Republic of),0.0,IRN
+Indonesia,0.0,IDN
+India,2.1,IND
+Iceland,0.0,ISL
+Hungary,0.0,HUN
+"China, Hong Kong SAR",0.0,HKG
+Honduras,0.0,HND
+Haiti,0.0,HTI
+Guyana,0.0,GUY
+Guinea-Bissau,0.0,GNB
+Guinea,0.0,GIN
+Guatemala,0.0,GTM
+Grenada,0.0,GRD
+Greece,0.0,GRC
+Ghana,0.0,GHA
+Germany,4.5,DEU
+Georgia,0.0,GEO
+Gambia,0.0,GMB
+Gabon,0.0,GAB
+France,4.2,FRA
+Finland,0.8,FIN
+Fiji,0.0,FJI
+Micronesia (Federated States of),0.0,FSM
+Ethiopia,0.0,ETH
+Eswatini,0.0,SWZ
+Estonia,0.0,EST
+Eritrea,0.0,ERI
+Equatorial Guinea,0.0,GNQ
+El Salvador,0.0,SLV
+Egypt,0.0,EGY
+Ecuador,0.0,ECU
+Dominican Republic,0.0,DOM
+Dominica,0.0,DMA
+Djibouti,0.0,DJI
+Denmark,0.7,DNK
+Democratic Republic of the Congo,0.0,COD
+Czechia,0.0,CZE
+Cyprus,0.0,CYP
+Cuba,0.0,CUB
+Croatia,0.2,HRV
+Costa Rica,0.0,CRI
+Comoros,0.0,COM
+Colombia,0.0,COL
+China,1.0,CHN
+Chile,0.0,CHL
+Chad,0.0,TCD
+Central African Republic,0.0,CAF
+Cabo Verde,0.0,CPV
+Canada,3.0,CAN
+Cameroon,0.0,CMR
+Cambodia,0.0,KHM
+Burundi,0.0,BDI
+Burkina Faso,0.0,BFA
+Bulgaria,0.0,BGR
+Brunei Darussalam,0.0,BRN
+Brazil,2.3,BRA
+Botswana,0.0,BWA
+Bosnia and Herzegovina,0.0,BIH
+Bolivia (Plurinational State of),0.0,BOL
+Bhutan,0.0,BTN
+Benin,0.0,BEN
+Belize,0.0,BLZ
+Belgium,0.3,BEL
+Belarus,0.0,BLR
+Barbados,0.0,BRB
+Bangladesh,0.0,BGD
+Bahrain,0.0,BHR
+Bahamas,0.0,BHS
+Azerbaijan,0.0,AZE
+Austria,0.7,AUT
+Australia,2.8,AUS
+Armenia,0.0,ARM
+Argentina,1.0,ARG
+Antigua and Barbuda,0.0,ATG
+Angola,0.0,AGO
+Andorra,0.0,AND
+Algeria,0.0,DZA
+Albania,0.0,ALB
+Afghanistan,0.0,AFG

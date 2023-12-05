@@ -1,0 +1,193 @@
+Country,temp,Average yearly temperature (1961�1990 Celsius) ,ISO-3166-1 alpha-3
+Zimbabwe,21.0,,ZWE
+Zambia,21.4,,ZMB
+Yemen,23.85,,YEM
+Viet Nam,24.45,,VNM
+Venezuela (Bolivarian Republic of),25.35,,VEN
+Vanuatu,23.95,,VUT
+Uzbekistan,12.05,,UZB
+Uruguay,17.55,,URY
+United States of America,8.55,,USA
+United Kingdom of Great Britain and Northern Ireland,8.45,,GBR
+United Arab Emirates,26.65,,ARE
+Ukraine,8.3,,UKR
+Uganda,22.8,,UGA
+Tuvalu,27.65,,TUV
+Turkmenistan,15.1,,TKM
+Türkiye,9.9,,TUR
+Tunisia,19.2,,TUN
+Trinidad and Tobago,25.75,,TTO
+Tonga,25.25,,TON
+Togo,27.15,,TGO
+Timor-Leste,25.25,,TLS
+Thailand,26.3,,THA
+United Republic of Tanzania,22.35,,TZA
+Tajikistan,6.4,,TJK
+Syrian Arab Republic,17.75,,SYR
+Switzerland,5.1,,CHE
+Sweden,1.75,,SWE
+Suriname,25.7,,SUR
+Sudan,26.9,,SDN
+Sri Lanka,26.95,,LKA
+Spain,13.3,,ESP
+Republic of Korea,11.5,,KOR
+South Africa,17.75,,ZAF
+Somalia,27.05,,SOM
+Solomon Islands,25.65,,SLB
+Slovenia,8.9,,SVN
+Slovakia,6.8,,SVK
+Singapore,26.45,,SGP
+Sierra Leone,26.05,,SLE
+Seychelles,27.15,,SYC
+Serbia,10.55,,SRB
+Senegal,27.85,,SEN
+Saudi Arabia,24.65,,SAU
+Sao Tome and Principe,23.75,,STP
+San Marino,11.85,,SMR
+Samoa,26.7,,WSM
+Saint Vincent and the Grenadines,26.8,,VCT
+Saint Lucia,25.5,,LCA
+Saint Kitts and Nevis,24.5,,KNA
+Rwanda,17.85,,RWA
+Russian Federation,5.35,,RUS
+Romania,8.8,,ROU
+Congo,24.55,,COG
+Qatar,27.15,,QAT
+Portugal,15.15,,PRT
+Poland,7.85,,POL
+Philippines,25.55,,PHL
+Peru,19.6,,PER
+Paraguay,23.55,,PRY
+Papua New Guinea,25.25,,PNG
+Panama,25.4,,PAN
+Palau,27.6,,PLW
+Pakistan,20.2,,PAK
+Oman,25.6,,OMN
+Norway,1.5,,NOR
+North Macedonia,9.8,,MKD
+Democratic People's Republic of Korea,5.7,,PRK
+Nigeria,27.0,,NGA
+Niger,27.15,,NER
+Nicaragua,24.9,,NIC
+New Zealand,19.53,,NZL
+Netherlands,9.25,,NLD
+Nepal,8.1,,NPL
+Namibia,19.95,,NAM
+Myanmar,13.05,,MMR
+Mozambique,23.8,,MOZ
+Morocco,17.1,,MAR
+Montenegro,10.55,,MNE
+Mongolia,1.7,,MNG
+Monaco,13.55,,MCO
+Republic of Moldova,9.45,,MDA
+Mexico,21.0,,MEX
+Mauritius,22.4,,MUS
+Mauritania,27.65,,MRT
+Marshall Islands,27.4,,MHL
+Malta,19.2,,MLT
+Mali,28.25,,MLI
+Maldives,28.0,,MDV
+Malaysia,25.4,,MYS
+Malawi,21.9,,MWI
+Madagascar,22.65,,MDG
+Luxembourg,8.65,,LUX
+Lithuania,6.2,,LTU
+Liechtenstein,5.8,,LIE
+Libya,21.8,,LBY
+Liberia,25.3,,LBR
+Lesotho,11.85,,LSO
+Lebanon,15.0,,LBN
+Latvia,5.6,,LVA
+Lao People's Democratic Republic,22.8,,LAO
+Kyrgyzstan,2.1,,KGZ
+Kuwait,27.15,,KWT
+Kiribati,28.2,,KIR
+Kenya,24.75,,KEN
+Kazakhstan,5.5,,KAZ
+Jordan,18.3,,JOR
+Japan,11.15,,JPN
+Jamaica,24.95,,JAM
+Côte d’Ivoire,26.35,,CIV
+Italy,13.45,,ITA
+Israel,19.2,,ISR
+Ireland,9.3,,IRL
+Iraq,21.4,,IRQ
+Iran (Islamic Republic of),17.25,,IRN
+Indonesia,25.85,,IDN
+India,23.65,,IND
+Iceland,-0.7,,ISL
+Hungary,9.75,,HUN
+"China, Hong Kong SAR",21.45,,HKG
+Honduras,23.5,,HND
+Haiti,24.9,,HTI
+Guyana,26.0,,GUY
+Guinea-Bissau,26.75,,GNB
+Guinea,25.7,,GIN
+Guatemala,23.45,,GTM
+Grenada,26.0,,GRD
+Greece,15.4,,GRC
+Ghana,27.2,,GHA
+Germany,8.4,,DEU
+Georgia,5.65,,GEO
+Gambia,27.5,,GMB
+Gabon,25.05,,GAB
+France,10.7,,FRA
+Finland,1.55,,FIN
+Fiji,24.4,,FJI
+Micronesia (Federated States of),25.85,,FSM
+Ethiopia,22.2,,ETH
+Eswatini,21.4,,SWZ
+Estonia,2.0,,EST
+Eritrea,25.5,,ERI
+Equatorial Guinea,24.55,,GNQ
+El Salvador,24.45,,SLV
+Egypt,22.1,,EGY
+Ecuador,21.85,,ECU
+Dominican Republic,24.55,,DOM
+Dominica,22.35,,DMA
+Djibouti,28.0,,DJI
+Denmark,6.95,,DNK
+Democratic Republic of the Congo,24.0,,COD
+Czechia,7.55,,CZE
+Cyprus,18.45,,CYP
+Cuba,25.2,,CUB
+Croatia,10.9,,HRV
+Costa Rica,24.8,,CRI
+Comoros,25.3,,COM
+Colombia,24.5,,COL
+China,7.5,,CHN
+Chile,8.45,,CHL
+Chad,26.55,,TCD
+Central African Republic,24.9,,CAF
+Cabo Verde,23.3,,CPV
+Canada,-5.1,,CAN
+Cameroon,24.6,,CMR
+Cambodia,26.8,,KHM
+Burundi,19.8,,BDI
+Burkina Faso,28.29,,BFA
+Bulgaria,10.55,,BGR
+Brunei Darussalam,26.85,,BRN
+Brazil,24.95,,BRA
+Botswana,21.5,,BWA
+Bosnia and Herzegovina,9.85,,BIH
+Bolivia (Plurinational State of),21.55,,BOL
+Bhutan,7.4,,BTN
+Benin,27.55,,BEN
+Belize,25.35,,BLZ
+Belgium,9.55,,BEL
+Belarus,6.15,,BLR
+Barbados,26.0,,BRB
+Bangladesh,25.0,,BGD
+Bahrain,26.8,,BHR
+Bahamas,24.85,,BHS
+Azerbaijan,11.95,,AZE
+Austria,6.35,,AUT
+Australia,21.65,,AUS
+Armenia,7.15,,ARM
+Argentina,14.8,,ARG
+Antigua and Barbuda,25.85,,ATG
+Angola,21.55,,AGO
+Andorra,7.6,,AND
+Algeria,22.5,,DZA
+Albania,11.4,,ALB
+Afghanistan,12.6,,AFG
