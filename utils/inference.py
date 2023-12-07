@@ -1,6 +1,12 @@
+import torch
+import sys,os
+import numpy as np
+from torch.utils.data import DataLoader
+
+local_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(local_dir)
 from model import ResNet101Model
 from dataset import GeoMNIST
-import torch
 
 # csv_geomnist_a = "C:\\Users\\Theophile Bayet\\workspace\\THESIS\\GDS\\perfAPI\\GeoMNIST\\data\\GEOMNIST_A.csv"
 #
@@ -23,6 +29,9 @@ class Evaluator():
 
 		## Load data
 		self.dataset=GeoMNIST(config.CSV_DATASET,split='test')
+		self.data_loader = DataLoader(self.dataset,
+									  batch_size=config.BATCH_SIZE,
+									  shuffle=False)
 
 	"""
 	Inference of the model from the evaluator on a given data
@@ -43,16 +52,49 @@ class Evaluator():
 
 	"""
 	Evaluate a dataset with the model
+	Metric will be accuracy for now and may be changed later.
 	"""
 	def evaluate(self):
-		pass
+		running_metric=0
+		for inputs,labels in self.data_loader:
+			inputs = inputs.to(self.device)
+			labels = labels.to(self.device)
+			outputs = self.model(inputs.to(torch.float))
+			_, preds = torch.max(outputs, 1)
+			#todo : maybe create a class for computing metrics
+			running_metric += self._compute_acc(labels,preds)
+		output_metric = running_metric/len(self.dataset)
+		return output_metric
 
 	"""
-	Write the output to the desired format
-	todo : explain format
+	Evaluate a dataset with the model, by data.
+	Results are reported in a csv with the predicted output added to each row
 	"""
-	def write_outputs(self):
-		pass
+	def evaluate_by_data(self):
+		by_data_data_loader = DataLoader(self.dataset,
+								 batch_size=1,
+								 shuffle=False)
+		running_metric=0
+		outputs_list = []
+		for inputs,labels in by_data_data_loader:
+			inputs = inputs.to(self.device)
+			labels = labels.to(self.device)
+			outputs = self.model(inputs.to(torch.float))
+			_, preds = torch.max(outputs, 1)
+			#todo : maybe create a class for computing metrics
+			running_metric += self._compute_acc(labels,preds)
+			outputs_list.append(preds.tolist()[0])
+		output_metric = running_metric/len(self.dataset)
+		return output_metric,outputs_list
+
+
+	"""
+	Compute accuracy between label and prediction in single label setup
+	"""
+	def _compute_acc(self,label,pred):
+		result = np.sum([1 if a==b else 0 for a,b in zip(label.tolist(),pred.tolist())])
+		return result
+
 
 # config = Config()
 # evaluator = Evaluator(config)
