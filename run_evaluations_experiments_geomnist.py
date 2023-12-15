@@ -39,7 +39,7 @@ by_class_output_path = os.path.join(local_dir,"outputs\\GEOMNIST_A_mini_by_class
 conf_matrix_output_path = by_class_output_path.replace('results.csv','conf_matrix.png')
 output_test = csv_test.replace('data\\','outputs\\').replace('.csv','_report.csv')
 
-
+ 
 csv_test_paths={"A":csv_test, "B": csv_test, "C":csv_test}
 model_test_paths={"A":model_test, "B": model_test, "C":model_test}
 
